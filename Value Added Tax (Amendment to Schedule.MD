@@ -2,8 +2,8 @@
 
 <ol type="a">
 
-     <li>Dust covers (plastic) classified under Tariff Heading Number 3926.90.90;
-</li><li>Mouse pads (plastic) classified under Tariff Heading Number 3926.90.90;
+<li> Dust covers (plastic) classified under Tariff Heading Number 3926.90.90;</li>
+<li>Mouse pads (plastic) classified under Tariff Heading Number 3926.90.90;
 </li><li>Mouse pad (rubber) classified under Tariff Heading Number 4016.99.90;
 </li><li>Laptop bag classified under Tariff Heading Numbers 4202.91.90 and 4202.92.90;
 </li><li>Punch card classified under Tariff Heading Number 4823.90.90;
